@@ -8,6 +8,7 @@ Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
   s.require_paths = ['lib']
   s.summary = 'A gem to compare JSON object trees'
+  s.description = 'A gem to compare JSON object trees'
   s.version = JSONDiff::Version::STRING
   s.email = ['chrisvroberts@gmail.com']
   s.homepage = 'https://github.com/chrisvroberts/json_diff'
